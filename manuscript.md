@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jhasegaw.github.io/manubot_test/" />
   <meta name="citation_pdf_url" content="https://jhasegaw.github.io/manubot_test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jhasegaw.github.io/manubot_test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jhasegaw.github.io/manubot_test/v/237f2bbd43d4ed9c364aba7d00478d5e69e0f8a3/" />
-  <meta name="manubot_html_url_versioned" content="https://jhasegaw.github.io/manubot_test/v/237f2bbd43d4ed9c364aba7d00478d5e69e0f8a3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jhasegaw.github.io/manubot_test/v/237f2bbd43d4ed9c364aba7d00478d5e69e0f8a3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jhasegaw.github.io/manubot_test/v/c45a05eb1ea53a2d62c74316ff0b1b33fabf5566/" />
+  <meta name="manubot_html_url_versioned" content="https://jhasegaw.github.io/manubot_test/v/c45a05eb1ea53a2d62c74316ff0b1b33fabf5566/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jhasegaw.github.io/manubot_test/v/c45a05eb1ea53a2d62c74316ff0b1b33fabf5566/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jhasegaw.github.io/manubot_test/v/237f2bbd43d4ed9c364aba7d00478d5e69e0f8a3/))
+([permalink](https://jhasegaw.github.io/manubot_test/v/c45a05eb1ea53a2d62c74316ff0b1b33fabf5566/))
 was automatically generated
-from [jhasegaw/manubot_test@237f2bb](https://github.com/jhasegaw/manubot_test/tree/237f2bbd43d4ed9c364aba7d00478d5e69e0f8a3)
+from [jhasegaw/manubot_test@c45a05e](https://github.com/jhasegaw/manubot_test/tree/c45a05eb1ea53a2d62c74316ff0b1b33fabf5566)
 on January 6, 2022.
 </em></small>
 
